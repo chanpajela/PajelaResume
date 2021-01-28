@@ -1,0 +1,22 @@
+@charset "utf-8";
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.box1{
+	background: #9B3234;
+	padding: 50px;
+	margin: 0px;
+}
+.box2{
+	background: #7CE3BB;
+	padding: 50px;
+}
+.box3{
+	background: #3BBB4D;
+	padding: 50px;
+}
+.box4{
+	background: #EDCC8A;
+	padding: 50px;
+}
